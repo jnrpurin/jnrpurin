@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdemirPurin.
 - 👀 I’m interested in C# .Net Core.
-- 🌱 Ethical Hacking it was nice to learn a little bit.
 - 📫 How to reach me: mailing me jnrpurin@gmail.com
 
 <!---
