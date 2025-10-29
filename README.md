@@ -20,10 +20,10 @@ He holds a Bachelor's degree in Computer Science, an MBA in Project Management, 
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://share.google/images/gDzmaAz0kPceOECMh" alt="C#" title="C#" width="36" height="36" />
+    <img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo" alt="C#" title="C#" width="36" height="36" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://share.google/images/gm2tHkAjKJ9DnEkVk" alt=".NET" title=".NET" width="36" height="36" />
+    <img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png" alt=".NET" title=".NET" width="36" height="36" />
   </a>  
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
