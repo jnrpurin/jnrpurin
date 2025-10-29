@@ -20,52 +20,52 @@ He holds a Bachelor's degree in Computer Science, an MBA in Project Management, 
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo" alt="C#" title="C#" width="36" height="36" />
+    <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="C#" title="C#" width="36" height="36" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png" alt=".NET" title=".NET" width="36" height="36" />
   </a>  
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/azure-1.png" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
+    <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" title="Docker" width="36" height="36" />
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
+    <img src="https://img.icons8.com/ios/50/git.png" alt="Git" title="Git" width="36" height="36" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" width="36" height="36" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+    <img src="https://img.icons8.com/ios/50/typescript.png" alt="TypeScript" title="TypeScript" width="36" height="36" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" width="36" height="36" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="VS Code" title="VS Code" width="36" height="36" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+    <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" title="CSS3" width="36" height="36" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+    <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" title="HTML5" width="36" height="36" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="React" title="React" width="36" height="36" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" width="36" height="36" />
   </a>
   <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" />
+    <img src="https://img.icons8.com/ios/50/oracle-logo.png" alt="Oracle" title="Oracle" width="36" height="36" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
+    <img src="https://img.icons8.com/skeuomorphism/32/mongo-db.png" alt="MongoDB" title="MongoDB" width="36" height="36" />
   </a>
 </p>
 
