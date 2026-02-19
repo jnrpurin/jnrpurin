@@ -12,7 +12,7 @@ Tech professional passionate about innovation and problem-solving, delivering sc
 He holds a Bachelor's degree in Computer Science, an MBA in Project Management, and is SAFe Agile certified. With over 14 years of proven experience, Ademir brings both technical depth and hands-on expertise to help organizations build robust, future-ready solutions that drive business success worldwide.
 </p>
 
-* 🌍  I'm based in São Paulo - Brazil
+* 🌍  I'm based in Santa Catarina - Brazil
 * ✉️  You can contact me at [jnrpurin@gmail.com](mailto:jnrpurin@gmail.com)
 * 🧠  I'm currently learning Python
 
